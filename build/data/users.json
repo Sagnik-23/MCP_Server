@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "alice",
+        "email": "alice@example.com",
+        "address": "123 Main St",
+        "phone": "555-1234"
+    },
+    {
+        "id": 2,
+        "name": "bob",
+        "email": "bob@example.com",
+        "address": "456 Elm St",
+        "phone": "555-5678"
+    },
+    {
+        "id": 3,
+        "name": "charlie",
+        "email": "charlie@example.com",
+        "address": "789 Oak St",
+        "phone": "555-9012"
+    },
+    {
+        "id": 4,
+        "name": "lolua Sagnik",
+        "email": "naikonoamar@gmail.com",
+        "address": "bari nai",
+        "phone": "2441139"
+    },
+    {
+        "id": 5,
+        "name": "bsdgs",
+        "email": "sdhgs",
+        "address": "sdfhsh",
+        "phone": "sfhsh"
+    },
+    {
+        "id": 6,
+        "name": "Test User",
+        "email": "testuser@example.com",
+        "address": "123 Test Ave, Testville",
+        "phone": "555-0000"
+    },
+    {
+        "id": 7,
+        "name": "Sherlock Holmes",
+        "email": "sherlock.holmes@bakerstreet.com",
+        "address": "221B Baker Street, London",
+        "phone": "555-221B"
+    },
+    {
+        "id": 8,
+        "name": "Gautam Mishra",
+        "email": "gautam.mishra@example.com",
+        "address": "Unknown",
+        "phone": "420"
+    },
+    {
+        "id": 9,
+        "name": "Arpan",
+        "email": "arpan.smith@example.com",
+        "address": "42 Example Road, Cityville",
+        "phone": "555-4242"
+    },
+    {
+        "id": 10,
+        "name": "Jessica Turner",
+        "email": "jessica.turner82@gmail.com",
+        "address": "418 Maplewood Drive, Austin, TX 78745",
+        "phone": "+1-512-555-2378"
+    }
+]
